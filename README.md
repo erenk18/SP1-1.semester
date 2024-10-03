@@ -1,2 +1,2 @@
-# torsdagsopgave 1
+# SP1
  variabler, int
